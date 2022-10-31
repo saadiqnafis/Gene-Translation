@@ -1,6 +1,6 @@
 # Gene Translation
 
-We're going to start by writing a program in translate_DNA.pythat uses a given DNA sequence, and translates it to its complement sequence using the base-pair complement rules. Our job is to translate the given DNA sequence, which will be provided as a TextGrid, like this:
+We're going to start by writing a program in translate_DNA.py that uses a given DNA sequence, and translates it to its complement sequence using the base-pair complement rules. Our job is to translate the given DNA sequence, which will be provided as a TextGrid, like this:
 
 Change A to T
 
